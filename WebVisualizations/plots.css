@@ -1,0 +1,35 @@
+.navbar-brand {
+    background-color: rgb(74, 170, 165);
+    font-size: xx-large;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 60px;
+  }
+
+  .img_vis {
+    height: 100%;
+    width: 100%;
+  }
+
+  h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+  #box_2 {    
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+
+  body {
+    background-color: rgb(237, 237, 237);
+  }
